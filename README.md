@@ -23,14 +23,20 @@
 ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=css3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFFFFF?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FFFFFF?style=flat&logo=sublimetext&logoColor=FF9800)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visualstudiocode&logoColor=007ACC)\
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python&logoColor=3776AB)\
 ![.NET](https://img.shields.io/badge/-.NET-FFFFFF?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-FFFFFF?style=flat&logo=visualstudio&logoColor=5C2D91)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-FFFFFF?style=flat&logo=postman&logoColor=FF6C37)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=181717)\
 ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-FFFFFF?style=flat&logo=spring&logoColor=6DB33F)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FFFFFF?style=flat&logo=intellijidea&logoColor=000000)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat&logo=unity&logoColor=000000)&nbsp;
+![Android](https://img.shields.io/badge/-Android-FFFFFF?style=flat&logo=android&logoColor=3DDC84)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-FFFFFF?style=flat&logo=androidstudio&logoColor=3DDC84)&nbsp;
 
 ## 🔬 &nbsp;GitHub Statistics
 
