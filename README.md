@@ -36,7 +36,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FFFFFF?style=flat&logo=intellijidea&logoColor=000000)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat&logo=unity&logoColor=000000)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-FFFFFF?style=flat&logo=android&logoColor=3DDC84)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-FFFFFF?style=flat&logo=androidstudio&logoColor=3DDC84)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-FFFFFF?style=flat&logo=androidstudio&logoColor=3DDC84)\
+![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker&logoColor=0DB7ED)&nbsp;
 
 ## 🔬 &nbsp;GitHub Statistics
 
@@ -51,4 +52,4 @@
 
 [Le Tu Huynh Duy](https://github.com/4-Ford204)
 
-Last Edited on: 11/05/2023
+Last Edited on: 27/05/2024
