@@ -37,7 +37,13 @@
 ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat&logo=unity&logoColor=000000)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-FFFFFF?style=flat&logo=android&logoColor=3DDC84)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-FFFFFF?style=flat&logo=androidstudio&logoColor=3DDC84)\
-![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker&logoColor=0DB7ED)&nbsp;
+![Postgre SQL](https://img.shields.io/badge/-Postgre%20SQL-FFFFFF?style=flat&logo=postgresql&logoColor=4169E1)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-FFFFFF?style=flat&logo=oracle&logoColor=F80000)\
+![Open Layers](https://img.shields.io/badge/-Open%20Layers-FFFFFF?style=flat&logo=openlayers&logoColor=1F6B75)&nbsp;
+![Github Actions](https://img.shields.io/badge/-GitHub%20Actions-FFFFFF?style=flat&logo=githubactions&logoColor=2088FF)\
+![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker&logoColor=2496ED)&nbsp;
+
+![Simple Icons](https://img.shields.io/badge/-Simple%20Icons-FFFFFF?style=flat&logo=simpleicons&logoColor=111111)
 
 ## 🔬 &nbsp;GitHub Statistics
 
@@ -52,4 +58,4 @@
 
 [Le Tu Huynh Duy](https://github.com/4-Ford204)
 
-Last Edited on: 27/05/2024
+Last Edited on: 29/05/2024
