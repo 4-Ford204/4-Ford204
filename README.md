@@ -42,6 +42,7 @@
 ![Open Layers](https://img.shields.io/badge/-Open%20Layers-FFFFFF?style=flat&logo=openlayers&logoColor=1F6B75)&nbsp;
 ![Github Actions](https://img.shields.io/badge/-GitHub%20Actions-FFFFFF?style=flat&logo=githubactions&logoColor=2088FF)\
 ![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker&logoColor=2496ED)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FFFFFF?style=flat&logo=rabbitmq&logoColor=FF6600)&nbsp;
 
 ![Simple Icons](https://img.shields.io/badge/-Simple%20Icons-FFFFFF?style=flat&logo=simpleicons&logoColor=111111)
 
@@ -58,4 +59,4 @@
 
 [Le Tu Huynh Duy](https://github.com/4-Ford204)
 
-Last Edited on: 29/05/2024
+Last Edited on: 31/05/2024
