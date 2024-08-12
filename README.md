@@ -43,6 +43,7 @@
 ![Github Actions](https://img.shields.io/badge/-GitHub%20Actions-FFFFFF?style=flat&logo=githubactions&logoColor=2088FF)\
 ![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker&logoColor=2496ED)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FFFFFF?style=flat&logo=rabbitmq&logoColor=FF6600)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-FFFFFF?style=flat&logo=redis&logoColor=FF4438)&nbsp;
 
 ![Simple Icons](https://img.shields.io/badge/-Simple%20Icons-FFFFFF?style=flat&logo=simpleicons&logoColor=111111)
 
@@ -59,4 +60,4 @@
 
 [Le Tu Huynh Duy](https://github.com/4-Ford204)
 
-Last Edited on: 31/05/2024
+Last Edited on: 12/08/2024
