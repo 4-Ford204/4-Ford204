@@ -14,7 +14,7 @@
 
 ## 🛠️ &nbsp;Tech Stack
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" align="right" width="400"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" align="right" width="300"/>
 
 | Category | Technology                                                                                                   
 | :-: | :-: |
@@ -36,6 +36,6 @@
 
 ------
 
-[Lê Tự Huỳnh Duy](https://github.com/4-Ford204)
+👌 [Lê Tự Huỳnh Duy](https://github.com/4-Ford204)
 
 Last Edited on: 14/08/2024
