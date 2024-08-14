@@ -1,4 +1,10 @@
-### Hi there, I am Lê Tự Huỳnh Duy 🖐️
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 🖐️, I'm Lê Tự Huỳnh Duy</h1></summary>
+  </ul>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🖥️ &nbsp;About Me
 
@@ -33,6 +39,14 @@
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-Ford204&layout=compact&theme=transparent"/>
   </a>
 </p>
+
+## 🏆 &nbsp;Github Trophies
+
+<div align=center>
+  <a href="https://github.com/4-Ford204">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=4-Ford204&theme=transparent&margin-w=5" />
+    </a>
+</div>
 
 ------
 
