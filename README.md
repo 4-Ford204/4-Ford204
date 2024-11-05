@@ -25,7 +25,7 @@
 | Category | Technology                                                                                                   
 | :-: | :-: |
 | Database | ![sqlserver](https://go-skill-icons.vercel.app/api/icons?i=sqlserver) &nbsp; ![postgres](https://skillicons.dev/icons?i=postgres) &nbsp; ![oracle](https://go-skill-icons.vercel.app/api/icons?i=oracle) &nbsp; ![redis](https://skillicons.dev/icons?i=redis)
-| Language | ![c](https://skillicons.dev/icons?i=c) &nbsp; ![java](https://skillicons.dev/icons?i=java) &nbsp; ![html](https://skillicons.dev/icons?i=html) &nbsp; ![css](https://skillicons.dev/icons?i=css) &nbsp; ![javascript](https://skillicons.dev/icons?i=javascript) &nbsp; ![cs](https://skillicons.dev/icons?i=cs)
+| Language | ![c](https://skillicons.dev/icons?i=c) &nbsp; ![java](https://skillicons.dev/icons?i=java) &nbsp; ![html](https://skillicons.dev/icons?i=html) &nbsp; ![css](https://skillicons.dev/icons?i=css) &nbsp; ![javascript](https://skillicons.dev/icons?i=javascript) &nbsp; ![cs](https://skillicons.dev/icons?i=cs) &nbsp; ![py](https://skillicons.dev/icons?i=py)
 | Framework & Library | ![dotnet](https://skillicons.dev/icons?i=dotnet) &nbsp; ![bootstrap](https://skillicons.dev/icons?i=bootstrap) &nbsp; ![jquery](https://skillicons.dev/icons?i=jquery)
 | Management | ![git](https://skillicons.dev/icons?i=git) &nbsp; ![github](https://skillicons.dev/icons?i=github) &nbsp; ![jira](https://go-skill-icons.vercel.app/api/icons?i=jira)
 | Tool | ![sublime](https://skillicons.dev/icons?i=sublime) &nbsp; ![vscode](https://skillicons.dev/icons?i=vscode) &nbsp; ![visualstudio](https://skillicons.dev/icons?i=visualstudio) &nbsp; ![postman](https://skillicons.dev/icons?i=postman) &nbsp; ![unity](https://skillicons.dev/icons?i=unity) &nbsp; ![androidstudio](https://skillicons.dev/icons?i=androidstudio)
@@ -52,4 +52,4 @@
 
 👌 [Lê Tự Huỳnh Duy](https://github.com/4-Ford204)
 
-Last Edited on: 04/09/2024
+Last Edited on: 05/11/2024
