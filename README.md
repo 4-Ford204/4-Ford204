@@ -4,7 +4,7 @@
   </ul>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🖥️ &nbsp;About Me
 
@@ -20,7 +20,7 @@
 
 ## 🛠️ &nbsp;Tech Stack
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" align="right" width="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" align="right" width="300" />
 
 | Category | Technology                                                                                                   
 | :-: | :-: |
@@ -35,8 +35,12 @@
 
 <p align="center">
   <a href="https://github.com/4-Ford204">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=4-Ford204&show_icons=true&theme=transparent"/>
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-Ford204&layout=compact&theme=transparent"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=4-Ford204&show_icons=true&theme=transparent" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-Ford204&layout=compact&theme=transparent" />
+  </a>
+  <img src="https://github.com/4-Ford204/4-Ford204/blob/output/github-snake.svg" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=4-Ford204&&color=6&icon=5&pretty=false" />
   </a>
 </p>
 
@@ -52,4 +56,4 @@
 
 👌 [Lê Tự Huỳnh Duy](https://github.com/4-Ford204)
 
-Last Edited on: 05/11/2024
+Last Edited on: 19/11/2024
