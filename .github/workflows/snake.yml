@@ -23,14 +23,13 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
 
-      - name: Deploy to Output Branch
+      - name: Deploy GitHub Contributions Snake Animations Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.TOKEN }}
           publish_dir: ./dist
-          publish_branch: output
-          commit_message: "Update Snake Animations [skip ci]"
+          publish_branch: github_contributions_snake_animations
+          commit_message: "Update Snake Animations"
