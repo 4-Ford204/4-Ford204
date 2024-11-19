@@ -38,7 +38,7 @@
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=4-Ford204&show_icons=true&theme=transparent" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-Ford204&layout=compact&theme=transparent" />
   </a>
-  <img src="https://github.com/4-Ford204/4-Ford204/blob/output/github-snake.svg" />
+  <img src="https://github.com/4-Ford204/4-Ford204/blob/github_contributions_snake_animations/github-snake.svg" />
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=4-Ford204&&color=6&icon=5&pretty=false" />
   </a>
