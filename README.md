@@ -39,9 +39,6 @@
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-Ford204&layout=compact&theme=transparent" />
   </a>
   <img src="https://github.com/4-Ford204/4-Ford204/blob/github_contributions_snake_animations/github-snake.svg" />
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=4-Ford204&&color=6&icon=5&pretty=false" />
-  </a>
 </p>
 
 ## 🏆 &nbsp;Github Trophies
@@ -49,11 +46,11 @@
 <div align=center>
   <a href="https://github.com/4-Ford204">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=4-Ford204&theme=transparent&margin-w=5" />
-    </a>
+  </a>
 </div>
 
 ------
 
 👌 [Lê Tự Huỳnh Duy](https://github.com/4-Ford204)
 
-Last Edited on: 19/11/2024
+Last Edited on: 06/01/2025
