@@ -29,7 +29,7 @@
 | Framework & Library | ![dotnet](https://skillicons.dev/icons?i=dotnet) &nbsp; ![bootstrap](https://skillicons.dev/icons?i=bootstrap) &nbsp; ![jquery](https://skillicons.dev/icons?i=jquery)
 | Management | ![git](https://skillicons.dev/icons?i=git) &nbsp; ![github](https://skillicons.dev/icons?i=github) &nbsp; ![jira](https://go-skill-icons.vercel.app/api/icons?i=jira)
 | Tool | ![sublime](https://skillicons.dev/icons?i=sublime) &nbsp; ![vscode](https://skillicons.dev/icons?i=vscode) &nbsp; ![visualstudio](https://skillicons.dev/icons?i=visualstudio) &nbsp; ![postman](https://skillicons.dev/icons?i=postman) &nbsp; ![unity](https://skillicons.dev/icons?i=unity) &nbsp; ![androidstudio](https://skillicons.dev/icons?i=androidstudio)
-| Others | ![githubactions](https://skillicons.dev/icons?i=githubactions) &nbsp; ![docker](https://skillicons.dev/icons?i=docker) &nbsp; ![rabbitmq](https://skillicons.dev/icons?i=rabbitmq) &nbsp; ![elasticsearch](https://skillicons.dev/icons?i=elasticsearch)
+| Others | ![githubactions](https://skillicons.dev/icons?i=githubactions) &nbsp; ![docker](https://skillicons.dev/icons?i=docker) &nbsp; ![rabbitmq](https://skillicons.dev/icons?i=rabbitmq) &nbsp; ![elasticsearch](https://skillicons.dev/icons?i=elasticsearch) &nbsp; ![kafka](https://skillicons.dev/icons?i=kafka)
 
 ## 📊 &nbsp;GitHub Statistics
 
@@ -53,4 +53,4 @@
 
 👌 [Lê Tự Huỳnh Duy](https://github.com/4-Ford204)
 
-Last Edited on: 06/01/2025
+Last Edited on: 08/01/2025
