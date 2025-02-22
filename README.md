@@ -8,7 +8,7 @@
 
 ## 🖥️ &nbsp;About Me
 
-- 🌱 I have begun studying at FPT University Da Nang since 2020, majoring in software engineering
+- 🌱 I graduated at FPT University Da Nang, majoring in software engineering
 - 🆘 Communicate with me about every up to date technologies which you know
 - 💬 Ask me about **.NET Core**
 - 📫 How to reach me:
@@ -45,7 +45,7 @@
 
 <div align=center>
   <a href="https://github.com/4-Ford204">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=4-Ford204&theme=transparent&margin-w=5" />
+      <img align="center" width=85% src="https://github-profile-trophy.vercel.app/?username=4-Ford204&theme=transparent&margin-w=5" />
   </a>
 </div>
 
@@ -53,4 +53,4 @@
 
 👌 [Lê Tự Huỳnh Duy](https://github.com/4-Ford204)
 
-Last Edited on: 20/01/2025
+Last Edited on: 22/02/2025
