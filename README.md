@@ -24,7 +24,7 @@
 
 | Category | Technology                                                                                                   
 | :-: | :-: |
-| Database | ![sqlserver](https://go-skill-icons.vercel.app/api/icons?i=sqlserver) &nbsp; ![postgres](https://skillicons.dev/icons?i=postgres) &nbsp; ![oracle](https://go-skill-icons.vercel.app/api/icons?i=oracle) &nbsp; ![redis](https://skillicons.dev/icons?i=redis)
+| Database | ![sqlserver](https://go-skill-icons.vercel.app/api/icons?i=sqlserver) &nbsp; ![postgres](https://skillicons.dev/icons?i=postgres) &nbsp; ![oracle](https://go-skill-icons.vercel.app/api/icons?i=oracle) &nbsp; ![redis](https://skillicons.dev/icons?i=redis) &nbsp; ![mongodb](https://skillicons.dev/icons?i=mongodb)
 | Language | ![c](https://skillicons.dev/icons?i=c) &nbsp; ![java](https://skillicons.dev/icons?i=java) &nbsp; ![cs](https://skillicons.dev/icons?i=cs) &nbsp; ![py](https://skillicons.dev/icons?i=py) <br> ![html](https://skillicons.dev/icons?i=html) &nbsp; ![css](https://skillicons.dev/icons?i=css) &nbsp; ![javascript](https://skillicons.dev/icons?i=javascript) 
 | Framework & Library | ![dotnet](https://skillicons.dev/icons?i=dotnet) &nbsp; ![bootstrap](https://skillicons.dev/icons?i=bootstrap) &nbsp; ![jquery](https://skillicons.dev/icons?i=jquery) &nbsp; ![angular](https://skillicons.dev/icons?i=angular)
 | Management | ![git](https://skillicons.dev/icons?i=git) &nbsp; ![github](https://skillicons.dev/icons?i=github) &nbsp; ![jira](https://go-skill-icons.vercel.app/api/icons?i=jira)
@@ -53,4 +53,4 @@
 
 👌 [Lê Tự Huỳnh Duy](https://github.com/4-Ford204)
 
-Last Edited on: 22/02/2025
+Last Edited on: 04/03/2025
