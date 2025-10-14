@@ -8,15 +8,14 @@
 
 ## 🖥️ &nbsp;About Me
 
-- 🌱 I graduated at FPT University Da Nang, majoring in software engineering
-- 🆘 Communicate with me about every up to date technologies which you know
-- 💬 Ask me about **.NET Core**
-- 📫 How to reach me:
-  - <a href="https://www.facebook.com/ford204"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  - <a href="https://www.instagram.com/4_fordfoolish"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  - <a href="https://leetcode.com/4-Ford204/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-- 😄 Hobbies: football, programming (especially new technologies)
-- ⚡ Fun fact: call me Ford if you don't know how to pronounce my name
+- 🌱 I graduated from FPT University in 2024 with major in Software Engineering.
+- 🆘 I'm always open to discussing the lastest technologies and trends.
+- 💬 Feel free to ask me about **.NET Core**.
+- 📫 You can reach me at:
+  - <a href="https://www.linkedin.com/in/duylth"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=inspire&logoColor=white" /></a>
+  - <a href="https://leetcode.com/4-Ford204"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+- 😄 Hobbies: football, programming (especially exploring new technologies).
+- ⚡ Fun fact: You can call me **Ford** if you're not sure how to pronounce my name.
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -26,7 +25,7 @@
 | :-: | :-: |
 | Database | ![sqlserver](https://go-skill-icons.vercel.app/api/icons?i=sqlserver) &nbsp; ![postgres](https://skillicons.dev/icons?i=postgres) &nbsp; ![oracle](https://go-skill-icons.vercel.app/api/icons?i=oracle) &nbsp; ![redis](https://skillicons.dev/icons?i=redis) &nbsp; ![mongodb](https://skillicons.dev/icons?i=mongodb)
 | Language | ![c](https://skillicons.dev/icons?i=c) &nbsp; ![java](https://skillicons.dev/icons?i=java) &nbsp; ![cs](https://skillicons.dev/icons?i=cs) &nbsp; ![py](https://skillicons.dev/icons?i=py) <br> ![html](https://skillicons.dev/icons?i=html) &nbsp; ![css](https://skillicons.dev/icons?i=css) &nbsp; ![javascript](https://skillicons.dev/icons?i=javascript) 
-| Framework & Library | ![dotnet](https://skillicons.dev/icons?i=dotnet) &nbsp; ![bootstrap](https://skillicons.dev/icons?i=bootstrap) &nbsp; ![jquery](https://skillicons.dev/icons?i=jquery) &nbsp; ![angular](https://skillicons.dev/icons?i=angular)
+| Framework & Library | ![dotnet](https://skillicons.dev/icons?i=dotnet) &nbsp; ![bootstrap](https://skillicons.dev/icons?i=bootstrap) &nbsp; ![jquery](https://skillicons.dev/icons?i=jquery) &nbsp; ![angular](https://skillicons.dev/icons?i=angular) &nbsp; ![tailwind](https://skillicons.dev/icons?i=tailwind)
 | Management | ![git](https://skillicons.dev/icons?i=git) &nbsp; ![github](https://skillicons.dev/icons?i=github) &nbsp; ![jira](https://go-skill-icons.vercel.app/api/icons?i=jira)
 | Tool | ![sublime](https://skillicons.dev/icons?i=sublime) &nbsp; ![vscode](https://skillicons.dev/icons?i=vscode) &nbsp; ![visualstudio](https://skillicons.dev/icons?i=visualstudio) &nbsp; ![postman](https://skillicons.dev/icons?i=postman) &nbsp; ![unity](https://skillicons.dev/icons?i=unity) &nbsp; ![androidstudio](https://skillicons.dev/icons?i=androidstudio)
 | Others | ![githubactions](https://skillicons.dev/icons?i=githubactions) &nbsp; ![docker](https://skillicons.dev/icons?i=docker) &nbsp; ![rabbitmq](https://skillicons.dev/icons?i=rabbitmq) &nbsp; ![elasticsearch](https://skillicons.dev/icons?i=elasticsearch) &nbsp; ![kafka](https://skillicons.dev/icons?i=kafka)
@@ -53,4 +52,4 @@
 
 👌 [Lê Tự Huỳnh Duy](https://github.com/4-Ford204)
 
-Last Edited on: 04/03/2025
+Last Edited on: 14/10/2025
