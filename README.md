@@ -25,7 +25,7 @@
 | :-: | :-: |
 | Database | ![sqlserver](https://go-skill-icons.vercel.app/api/icons?i=sqlserver) &nbsp; ![postgres](https://skillicons.dev/icons?i=postgres) &nbsp; ![oracle](https://go-skill-icons.vercel.app/api/icons?i=oracle) &nbsp; ![redis](https://skillicons.dev/icons?i=redis) &nbsp; ![mongodb](https://skillicons.dev/icons?i=mongodb)
 | Language | ![c](https://skillicons.dev/icons?i=c) &nbsp; ![java](https://skillicons.dev/icons?i=java) &nbsp; ![cs](https://skillicons.dev/icons?i=cs) &nbsp; ![py](https://skillicons.dev/icons?i=py) <br> ![html](https://skillicons.dev/icons?i=html) &nbsp; ![css](https://skillicons.dev/icons?i=css) &nbsp; ![javascript](https://skillicons.dev/icons?i=javascript) 
-| Framework & Library | ![dotnet](https://skillicons.dev/icons?i=dotnet) &nbsp; ![bootstrap](https://skillicons.dev/icons?i=bootstrap) &nbsp; ![jquery](https://skillicons.dev/icons?i=jquery) &nbsp; ![angular](https://skillicons.dev/icons?i=angular) &nbsp; ![tailwind](https://skillicons.dev/icons?i=tailwind)
+| Framework & Library | ![dotnet](https://skillicons.dev/icons?i=dotnet) &nbsp; ![bootstrap](https://skillicons.dev/icons?i=bootstrap) &nbsp; ![jquery](https://skillicons.dev/icons?i=jquery) &nbsp; ![angular](https://skillicons.dev/icons?i=angular) &nbsp; ![tailwind](https://skillicons.dev/icons?i=tailwind) &nbsp; ![primeng](https://go-skill-icons.vercel.app/api/icons?i=primeng)
 | Management | ![git](https://skillicons.dev/icons?i=git) &nbsp; ![github](https://skillicons.dev/icons?i=github) &nbsp; ![jira](https://go-skill-icons.vercel.app/api/icons?i=jira)
 | Tool | ![sublime](https://skillicons.dev/icons?i=sublime) &nbsp; ![vscode](https://skillicons.dev/icons?i=vscode) &nbsp; ![visualstudio](https://skillicons.dev/icons?i=visualstudio) &nbsp; ![postman](https://skillicons.dev/icons?i=postman) &nbsp; ![unity](https://skillicons.dev/icons?i=unity) &nbsp; ![androidstudio](https://skillicons.dev/icons?i=androidstudio)
 | Others | ![githubactions](https://skillicons.dev/icons?i=githubactions) &nbsp; ![docker](https://skillicons.dev/icons?i=docker) &nbsp; ![rabbitmq](https://skillicons.dev/icons?i=rabbitmq) &nbsp; ![elasticsearch](https://skillicons.dev/icons?i=elasticsearch) &nbsp; ![kafka](https://skillicons.dev/icons?i=kafka)
@@ -52,4 +52,4 @@
 
 👌 [Lê Tự Huỳnh Duy](https://github.com/4-Ford204)
 
-Last Edited on: 14/10/2025
+Last Edited on: 30/10/2025
